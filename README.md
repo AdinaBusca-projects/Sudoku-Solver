@@ -1,0 +1,1 @@
+Sudoku Solver is a Python program that receives a sudoku puzzle as user input and solves it by backtracking. Due to performence speed and memory, I used Numpy arrays. 
